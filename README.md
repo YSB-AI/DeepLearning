@@ -1,4 +1,4 @@
-# DeepLearning
+# Deep Learning Projects
 
 A set of personal AI projects/Experiences :
 * Basic Sentiment Classification approach

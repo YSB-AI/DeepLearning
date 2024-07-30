@@ -1,0 +1,9 @@
+__pycache__/
+*.__pycache__/
+*.pyc
+logs/
+Hyperparam_tunning*/
+hyperparameter_tuning*/
+checkpoints/
+ignore.txt
+*.tfrecord

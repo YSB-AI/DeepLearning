@@ -4,6 +4,12 @@ __pycache__/
 logs/
 Hyperparam_tunning*/
 hyperparameter_tuning*/
+Hyperparam_range*/
 checkpoints/
 ignore.txt
 *.tfrecord
+Archive/
+checkpoints/
+aclImdb/
+aclImdb/*
+*.txt

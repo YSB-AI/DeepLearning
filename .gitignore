@@ -36,3 +36,14 @@ Deep Learning/DigitClassification/checkpoints/*
 Deep Learning/TextGenerator/*
 Deep Learning/TriggerWordsDetection/best_model.keras
 Deep Learning/__pycache__/RUN_TENSORBOARD.cpython-311.pyc
+DigitClassification/logs/data_augmentation/*
+DigitClassification/logs/*
+DigitClassification/logs/rough/*
+DigitClassification/logs/rough_2/*
+DigitClassification/logs/rough_3/*
+DigitClassification/logs/rough_4/*
+DigitClassification/logs/rough_5/*
+DigitClassification/logs/rough_6/*
+DigitClassification/checkpoints/*
+DigitClassification/checkpoints_2/*
+

@@ -1,0 +1,38 @@
+ARCHIVE
+2022 Course
+Kaggle
+NLP
+Paper
+Deep Learning/DeepLearning/TriggerWordsDetection/Dataset
+Deep Learning/DeepLearning/TriggerWordsDetection/keras_tuner_logs/*
+Deep Learning/DeepLearning/TriggerWordsDetection/logs_attention/*
+Deep Learning/DeepLearning/TriggerWordsDetection/logs_cnn/*
+Deep Learning/DeepLearning/TriggerWordsDetection/logs_gru/*
+Deep Learning/DeepLearning/TriggerWordsDetection/logs_transformer/*
+Deep Learning/DeepLearning/TriggerWordsDetection/logs_tuning/*
+Deep Learning/DeepLearning/TriggerWordsDetection/logs_tuning_attention/*
+Deep Learning/DeepLearning/TriggerWordsDetection/logs_tuning_cnn/*
+Deep Learning/DeepLearning/TriggerWordsDetection/logs_tuning_gru/*
+Deep Learning/DeepLearning/TriggerWordsDetection/logs_tuning_transformer/*  
+Deep Learning/DeepLearning/TriggerWordsDetection/logs/*
+Deep Learning/DigitClassification/logs/*
+Deep Learning/LanguageModeling/logs/*
+Deep Learning/LanguageModeling/keras_tuner_logs/*
+Deep Learning/LanguageModeling/logs_tuning/*
+Deep Learning/LanguageModeling/logs_tuning_attention/*
+Deep Learning/LanguageModeling/logs_tuning_cnn/*
+Deep Learning/LanguageModeling/logs_tuning_gru/*
+Deep Learning/LanguageModeling/logs_tuning_transformer/*
+Deep Learning/LanguageModeling/logs_attention/*
+Deep Learning/LanguageModeling/logs_cnn/*
+Deep Learning/LanguageModeling/logs_gru/*
+Deep Learning/LanguageModeling/logs_transformer/*
+Deep Learning/LanguageModeling/logs_tuning/*        
+Deep Learning/Sentiment Classification/checkpoints/*
+Deep Learning/Sentiment Classification/logs/*
+Deep Learning/Sentiment Classification/keras_tuner_logs/*
+Deep Learning/Sentiment Classification/logs_tuning/*        
+Deep Learning/DigitClassification/checkpoints/*
+Deep Learning/TextGenerator/*
+Deep Learning/TriggerWordsDetection/best_model.keras
+Deep Learning/__pycache__/RUN_TENSORBOARD.cpython-311.pyc
